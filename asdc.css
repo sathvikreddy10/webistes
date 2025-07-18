@@ -1,0 +1,99 @@
+
+
+.body{
+  width:100vw;
+  height:100vh;
+  background:rgba(23, 17, 40, 0.99);
+}
+nav{
+  background: #820e82;
+}
+.top{
+  background: #03387d58;
+}
+.brand_name{
+  background:red;
+  
+}
+.filter{
+  background: rgba(11, 38, 211, 0.893);
+    
+}
+input{
+  padding-left: 3px;
+}
+input:focus{
+  background: #99cd32ef;
+  text-align: center;
+  font-size: 1.3rem;
+  width:180.8px;
+}
+.search{
+  background: #9acd32;
+
+}
+button:focus{
+  background: #99cd327b;
+}
+.parties{
+  background: #a0ea0cd2;
+  margin:auto;
+ 
+}
+.heading{
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Tahoma, Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+  background:#9acd32
+}
+.image{
+  overflow: hidden;
+  margin:auto;
+  background:rgb(169, 7, 7);
+  
+
+}
+img{
+  display: block;
+  object-fit: cover;
+  width:100%;
+  height:100%;
+}
+
+.button{
+  background:linear-gradient(90deg,rgba(16, 0, 235, 0.868) 20%,rgb(3, 0, 0) 50%,rgba(16, 0, 235, 0.868) 80%);
+  
+
+}
+.book{
+background: rgba(52, 32, 126, 0.49);
+color:#d9140a;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 900;
+}
+.book:focus{
+background: rgba(110, 10, 141, 0.419);
+color:#86031fd9;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 1.5rem;
+font-weight: 900;
+}
+
+/* SECOND PAGE */
+
+.parties_data{
+  background: #a0ea0cd2;
+  margin:auto;
+
+}
+
+.item{
+display:flex;
+padding:3.2vw;
+}
+.info{
+  font-weight: 900;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width:50% ;
+  font-size: 1.5rem;
+  text-align: center;
+}
